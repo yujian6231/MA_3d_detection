@@ -10,7 +10,7 @@
 ## Installation
 1. Clone the repository
    ```Shell
-   git clone https://github.com/smallcorgi/3D-Deepbox.git
+   git clone https://github.com/yujian6231/MA_3d_detection.git
    ```
 2. Download the KITTI object detection dataset, calib and label (http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=2d).
 3. Download the weights file (vgg_16.ckpt).
